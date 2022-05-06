@@ -1,0 +1,10 @@
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+.text-red {
+    color: red;
+}
+#article{
+    color:mediumaquamarine;
+    font-size:64px;
+}
